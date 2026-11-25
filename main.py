@@ -8,7 +8,7 @@ every run writes the exact same bytes.
 import os
 from pathlib import Path
 
-FORTUNE = "You will find great fortune ahead, the stars insist, just not in the wallet you emptied at 3am."
+FORTUNE = "You will find great fortune ahead, the stars insist, just not in the wallet you torched at 3am."
 
 
 def main() -> None:
